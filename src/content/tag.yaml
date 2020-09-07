@@ -1,3 +1,6 @@
 - id: React
   description: Articles related to React JS
   image: img/computer.jpg
+- id: Gatsby
+  description: The modern way to build a web
+  image: img/gatsby/gatsby-ecosystem.jpg

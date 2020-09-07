@@ -64,7 +64,7 @@ const About: React.FC = () => (
                 </p>
                 <ul>
                   <li>
-                    * Web Development (React JS, Typescript, Gatsby, NextJS, Node, JavaScript and more)
+                    Web Development (React JS, Typescript, Gatsby, NextJS, Node, JavaScript and more)
                   </li>
                 </ul>
               </div>
